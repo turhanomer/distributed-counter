@@ -1,0 +1,25 @@
+# Node
+node_modules/
+dist/
+.vite/
+
+# Move
+build/
+Move.lock
+
+# Environment files
+.env
+.env.local
+
+# Sui / Wallet
+.sui/
+keystore
+*.key
+
+# Logs
+npm-debug.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
